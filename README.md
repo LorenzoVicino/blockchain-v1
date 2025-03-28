@@ -16,7 +16,7 @@ First attempt at building a blockchain mechanism in Java
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/yourusername/blockchain-v1.git](https://github.com/yourusername/blockchain-v1.git)
+    git clone [https://github.com/LorenzoVicino/blockchain-v1.git]
     cd blockchain-v1
     ```
 
@@ -47,11 +47,11 @@ Markdown
 
 ## 💂‍♂️ Project Structure
 
-/src
-├── Main.java         # Runs the blockchain simulation
-└── blockchain
-├── Block.java    # Defines block structure & hashing
-└── Blockchain.java # Manages block mining & validation
+* /src
+* ├── Main.java               # Esegue la simulazione della blockchain
+* └── blockchain
+    * ├── Block.java         # Definisce la struttura del blocco e l'hashing
+    * └── Blockchain.java    # Gestisce il mining e la validazione dei blocchi
 
 
 ## ⚡ Future Improvements
